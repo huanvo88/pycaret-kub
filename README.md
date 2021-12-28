@@ -1,0 +1,1 @@
+Deploy machine learning app on kubernetes, following this [repo](https://github.com/pycaret/pycaret-streamlit-google)

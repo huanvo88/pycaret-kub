@@ -1,0 +1,13 @@
+.vscode/
+*idea*
+*.log
+.idea/
+*.out
+*.json
+__pycache__/
+*vault_token.yaml*
+*.ipynb_checkpoints
+data/
+catboost_info/
+RNN.ipynb
+output/
