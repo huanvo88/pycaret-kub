@@ -11,7 +11,7 @@ The main jupyter notebook is [main_notebook.ipynb](main_notebook.ipynb)
 
 One can take a look at the pandas-profiling report of the data here [data_profiling.html](data_profiling.html)
 
-In order to launch the MLflow UI locally, follow the steps: 
+In order to launch the MLflow UI locally, follow the steps on the terminal: 
 
 * clone the project
 * create the python env based on the requirements.txt file (for pycaret, use the [full] option)
