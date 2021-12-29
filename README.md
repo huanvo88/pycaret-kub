@@ -5,7 +5,11 @@ This is a simple MLOps project that aims to build and deploy a simple machine le
 Most of the codes are taken from this repo [pycaret-streamlit-google](https://github.com/pycaret/pycaret-streamlit-google), written by [Moez Ali](https://ca.linkedin.com/in/profile-moez), the creator of pycaret. One can clone this repository and follow the instructions in the article 
 [Deploy Machine Learning App on GKE](https://towardsdatascience.com/deploy-machine-learning-app-built-using-streamlit-and-pycaret-on-google-kubernetes-engine-fd7e393d99cb) in order to deploy the model on GKE. In order to avoid unneccessary errors, the project name on GKE should be the same as the name of your repo, and remember to enable the relevant Google APIs. 
 
-One can take a look at the finished app here http://34.94.20.18/ (hosted on Google Cloud Platform). Please be reasonable and do not overload the server. This is meant as a learning project, not a production environment. 
+Here is the app in action
+
+![alt text](churn_app_2.gif)
+
+One can take a look at the finished app here http://34.94.20.18/ (hosted on Google Cloud Platform). This has been taken down due to server cost concern.
 
 The main jupyter notebook is [main_notebook.ipynb](main_notebook.ipynb)
 
